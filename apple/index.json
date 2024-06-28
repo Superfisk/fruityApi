@@ -1,0 +1,14 @@
+{
+  "name": "Apple",
+  "id": 6,
+  "family": "Rosaceae",
+  "order": "Rosales",
+  "genus": "Malus",
+  "nutritions": {
+    "calories": 52,
+    "fat": 0.4,
+    "sugar": 10.3,
+    "carbohydrates": 11.4,
+    "protein": 0.3
+  }
+}
